@@ -1,0 +1,6 @@
+﻿{
+    "layered-image":  {
+                          "background":  "$media:android_white_bg",
+                          "foreground":  "$media:ic_launcher_foreground"
+                      }
+}

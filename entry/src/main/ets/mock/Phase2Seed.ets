@@ -1,0 +1,12 @@
+export const SAMPLE_ACCOUNT_NAME: string = 'Budget Book';
+export const SAMPLE_BALANCE: string = '$0.00';
+export const SAMPLE_TRANSACTION_CATEGORY: string = 'Fruits & Vegetables';
+export const SAMPLE_TRANSACTION_PAYEE: string = '1 Pizzeria Antonella';
+export const SAMPLE_TRANSACTION_PROJECT: string = 'Untitled project';
+export const SAMPLE_TRANSACTION_AMOUNT: string = '$70.00';
+export const SAMPLE_TRANSACTION_DATE: string = 'Jun 30, 2026';
+export const SAMPLE_BACKUP_PATH: string = '/storage/emulated/0/Android/data/\norg.totschnig.myexpenses.debug/files';
+export const SAMPLE_FINTS_TRIAL_END: string = '8/29/26';
+export const SAMPLE_PRICE_6M: string = '\u20ac5.49 / 6 months';
+export const SAMPLE_PRICE_12M: string = '\u20ac9.85 / 12 months';
+export const SAMPLE_PRICE_24M: string = '\u20ac18.19 / 24 months';

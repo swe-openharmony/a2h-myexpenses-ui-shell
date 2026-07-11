@@ -1,0 +1,13 @@
+﻿{
+  "app": {
+    "bundleName": "org.totschnig.myexpenses",
+    "vendor": "Totschnig",
+    "versionCode": 1000000,
+    "versionName": "1.0.0",
+    "icon": "$media:ic_myexpenses_layered_image",
+    "label": "$string:app_name"
+  }
+}
+
+
+

@@ -1,0 +1,13 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/PreferenceSetup",
+    "pages/PrivacyBackup",
+    "pages/FirstAccountSetup",
+    "pages/EmptyHome",
+    "pages/MoreBottomSheet",
+    "pages/SettingsMain",
+    "pages/FintsPremiumGate",
+    "pages/PremiumPurchaseOptions"
+  ]
+}

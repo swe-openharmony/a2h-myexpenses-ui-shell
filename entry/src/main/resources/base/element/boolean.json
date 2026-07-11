@@ -1,0 +1,32 @@
+﻿{
+    "boolean":  [
+                    {
+                        "name":  "showTransactionBulkActions",
+                        "value":  false
+                    },
+                    {
+                        "name":  "fints",
+                        "value":  false
+                    },
+                    {
+                        "name":  "allowFullScreen",
+                        "value":  false
+                    },
+                    {
+                        "name":  "isLarge",
+                        "value":  false
+                    },
+                    {
+                        "name":  "isCompact",
+                        "value":  true
+                    },
+                    {
+                        "name":  "contentBasedColors",
+                        "value":  false
+                    },
+                    {
+                        "name":  "pref_debug_show_ads_visible",
+                        "value":  false
+                    }
+                ]
+}
