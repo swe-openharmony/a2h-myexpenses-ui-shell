@@ -772,6 +772,9 @@ struct BusinessHomePage {
                 this.onDeleteTransaction();
               }
             })
+          }
+          .width('100%')
+          Row({ space: 12 }) {
             ActionText({
               label: 'Edit',
               onTap: () => {
