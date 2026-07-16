@@ -1,0 +1,140 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#000000"
+    },
+    {
+      "name": "colorErrorDialog",
+      "value": "#ffD57B8C"
+    },
+    {
+      "name": "colorExpense",
+      "value": "$color:colorExpenseLight"
+    },
+    {
+      "name": "colorIncome",
+      "value": "$color:colorIncomeLight"
+    },
+    {
+      "name": "colorExpenseHistoryChart",
+      "value": "$color:colorExpenseDark"
+    },
+    {
+      "name": "colorIncomeHistoryChart",
+      "value": "$color:colorIncomeDark"
+    },
+    {
+      "name": "colorExpenseOnCard",
+      "value": "#ffEF9A9A"
+    },
+    {
+      "name": "colorIncomeOnCard",
+      "value": "#ffA5D6A7"
+    },
+    {
+      "name": "colorTransfer",
+      "value": "#ff7777FF"
+    },
+    {
+      "name": "colorAggregate",
+      "value": "$color:material_grey_400"
+    },
+    {
+      "name": "caldroid_custom_gridview_background",
+      "value": "$color:caldroid_middle_gray"
+    },
+    {
+      "name": "caldroid_red_border",
+      "value": "$color:caldroid_light_red"
+    },
+    {
+      "name": "caldroid_state_date_prev_next_month",
+      "value": "$color:caldroid_333"
+    },
+    {
+      "name": "future_background",
+      "value": "#11FFFFFF"
+    },
+    {
+      "name": "drawerBackground",
+      "value": "#ff222222"
+    },
+    {
+      "name": "cardBackground",
+      "value": "#ff444444"
+    },
+    {
+      "name": "activatedBackground",
+      "value": "$color:material_grey_700"
+    },
+    {
+      "name": "activatedBackgroundPlanner",
+      "value": "$color:material_grey_600"
+    },
+    {
+      "name": "settings_two_pane_background_color",
+      "value": "#00000000"
+    },
+    {
+      "name": "overspent",
+      "value": "#ffd32f2f"
+    },
+    {
+      "name": "overspentDaily",
+      "value": "#ffdddd00"
+    },
+    {
+      "name": "inBudget",
+      "value": "#ff02e600"
+    },
+    {
+      "name": "UNRECONCILED",
+      "value": "#ffBDBDBD"
+    },
+    {
+      "name": "CLEARED",
+      "value": "#ff82B1FF"
+    },
+    {
+      "name": "VOID",
+      "value": "#ffFF5252"
+    },
+    {
+      "name": "RECONCILED",
+      "value": "#ff69F0AE"
+    },
+    {
+      "name": "design_default_color_error",
+      "value": "#ffb00020"
+    },
+    {
+      "name": "material_grey_600",
+      "value": "#ff757575"
+    },
+    {
+      "name": "material_grey_300",
+      "value": "#ffe0e0e0"
+    },
+    {
+      "name": "caldroid_333",
+      "value": "#ff333333"
+    },
+    {
+      "name": "caldroid_light_red",
+      "value": "#ffff7f7f"
+    },
+    {
+      "name": "caldroid_lighter_gray",
+      "value": "#ffdddddd"
+    },
+    {
+      "name": "caldroid_middle_gray",
+      "value": "#ff888888"
+    },
+    {
+      "name": "caldroid_white",
+      "value": "#ffffffff"
+    }
+  ]
+}

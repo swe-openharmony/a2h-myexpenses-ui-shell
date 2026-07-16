@@ -1,0 +1,204 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "colorErrorDialog",
+      "value": "$color:design_default_color_error"
+    },
+    {
+      "name": "primaryColor",
+      "value": "#ff0050a7"
+    },
+    {
+      "name": "primaryLightColor",
+      "value": "#ff6085DC"
+    },
+    {
+      "name": "primaryDarkColor",
+      "value": "#ff002977"
+    },
+    {
+      "name": "appDefault",
+      "value": "#ffffc107"
+    },
+    {
+      "name": "emphasis",
+      "value": "#ff31b6e7"
+    },
+    {
+      "name": "colorExpense",
+      "value": "$color:colorExpenseDark"
+    },
+    {
+      "name": "colorIncome",
+      "value": "$color:colorIncomeDark"
+    },
+    {
+      "name": "colorExpenseHistoryChart",
+      "value": "$color:colorExpenseLight"
+    },
+    {
+      "name": "colorIncomeHistoryChart",
+      "value": "$color:colorIncomeLight"
+    },
+    {
+      "name": "colorTransfer",
+      "value": "#ff000080"
+    },
+    {
+      "name": "colorAggregate",
+      "value": "$color:material_grey_600"
+    },
+    {
+      "name": "colorExpenseDark",
+      "value": "#ff800000"
+    },
+    {
+      "name": "colorIncomeDark",
+      "value": "#ff006800"
+    },
+    {
+      "name": "colorExpenseLight",
+      "value": "#ffFF5E5E"
+    },
+    {
+      "name": "colorIncomeLight",
+      "value": "#ff00D000"
+    },
+    {
+      "name": "colorExpenseOnCard",
+      "value": "#ffC62828"
+    },
+    {
+      "name": "colorIncomeOnCard",
+      "value": "#ff2D7B31"
+    },
+    {
+      "name": "drawerBackground",
+      "value": "#ffFFFFFF"
+    },
+    {
+      "name": "cardBackground",
+      "value": "#fff0f0f0"
+    },
+    {
+      "name": "material_indigo",
+      "value": "#ff3F51B5"
+    },
+    {
+      "name": "material_grey",
+      "value": "#ff9E9E9E"
+    },
+    {
+      "name": "material_grey_400",
+      "value": "#ffBDBDBD"
+    },
+    {
+      "name": "material_grey_700",
+      "value": "#ff616161"
+    },
+    {
+      "name": "premium_licence",
+      "value": "#250D47A1"
+    },
+    {
+      "name": "extended_licence",
+      "value": "#25004D40"
+    },
+    {
+      "name": "professional_licence",
+      "value": "#25F57F17"
+    },
+    {
+      "name": "caldroid_custom_gridview_background",
+      "value": "$color:caldroid_lighter_gray"
+    },
+    {
+      "name": "caldroid_red_border",
+      "value": "#FFC6292D"
+    },
+    {
+      "name": "caldroid_state_date_prev_next_month",
+      "value": "$color:caldroid_white"
+    },
+    {
+      "name": "future_background",
+      "value": "#11000000"
+    },
+    {
+      "name": "activatedBackground",
+      "value": "$color:material_grey_300"
+    },
+    {
+      "name": "activatedBackgroundPlanner",
+      "value": "$color:material_grey_400"
+    },
+    {
+      "name": "UNRECONCILED",
+      "value": "#ff888888"
+    },
+    {
+      "name": "CLEARED",
+      "value": "#ff0000FF"
+    },
+    {
+      "name": "VOID",
+      "value": "#ffFF0000"
+    },
+    {
+      "name": "RECONCILED",
+      "value": "#ff00FF00"
+    },
+    {
+      "name": "settings_two_pane_background_color",
+      "value": "#FFDBD9DD"
+    },
+    {
+      "name": "overspent",
+      "value": "#ffc00100"
+    },
+    {
+      "name": "overspentDaily",
+      "value": "#ffdddd00"
+    },
+    {
+      "name": "inBudget",
+      "value": "#ff026e00"
+    },
+    {
+      "name": "design_default_color_error",
+      "value": "#ffb00020"
+    },
+    {
+      "name": "material_grey_600",
+      "value": "#ff757575"
+    },
+    {
+      "name": "material_grey_300",
+      "value": "#ffe0e0e0"
+    },
+    {
+      "name": "caldroid_333",
+      "value": "#ff333333"
+    },
+    {
+      "name": "caldroid_light_red",
+      "value": "#ffff7f7f"
+    },
+    {
+      "name": "caldroid_lighter_gray",
+      "value": "#ffdddddd"
+    },
+    {
+      "name": "caldroid_middle_gray",
+      "value": "#ff888888"
+    },
+    {
+      "name": "caldroid_white",
+      "value": "#ffffffff"
+    }
+  ]
+}
